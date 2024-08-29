@@ -1,0 +1,9 @@
+brew install ffmpeg
+brew install portaudio
+
+
+pip install ffmpeg
+pip install pyaudio
+pip install ffmpeg-python( try this before using ffmpeg)
+pip install opencv-python
+pip install opencv-contrib-python

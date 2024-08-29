@@ -1,0 +1,6 @@
+ffmpeg-python==0.2.0
+future==1.0.0
+numpy==2.1.0
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84
+PyAudio==0.2.14
